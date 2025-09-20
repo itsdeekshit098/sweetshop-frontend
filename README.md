@@ -1,8 +1,6 @@
 # 🍬 SweetShop Frontend
-link: https://sweetshop-frontend-git-main-deekshiths-projects-eaba341b.vercel.app/
-      or
-      https://sweetshop-frontend-f249kmot5-deekshiths-projects-eaba341b.vercel.app/
 
+link: https://sweetshop-frontend-pink.vercel.app/
 A modern **Next.js 13+** frontend for the SweetShop application.
 This project provides a user-friendly interface for browsing sweets, purchasing items, and managing inventory (admin only).
 
