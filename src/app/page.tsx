@@ -13,15 +13,8 @@ export default function HomePage() {
       <p className="text-lg mb-8 text-gray-700">
         By upcoming Incubyte Intern <span className="font-semibold">Deekshith</span>
       </p>
-      <p className="mb-8 text-black">
-        to log in as admin use username: alice and passwd:alice123
-      </p>
-      <p className="mb-8 text-black">
-        to log in as user use username: hansi and passwd:hansi123
-      </p>
-      <p className="mb-8 text-black">
-        Expect deleay in responses because spinning in unpaid render server
-      </p>
+     
+      
       <div className="space-x-4">
         <Link
           href="/login"
