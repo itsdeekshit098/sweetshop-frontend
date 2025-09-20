@@ -2,7 +2,7 @@ import axios, { AxiosError } from "axios";
 import { getToken } from "../utils/auth";
 
 const api = axios.create({
-  baseURL: process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080/api",
+  baseURL: "https://sweetshop-backend-1r0y.onrender.com/api",
   headers: { "Content-Type": "application/json" },
 });
 
